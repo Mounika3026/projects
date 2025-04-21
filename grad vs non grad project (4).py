@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
+## An Analytical Study of Graduates vs Non-Graduates to provide Greater Employment Prospects, Using Machine Learning
+## Implemented a Logistic Regression model to predict high unemployment categories among graduates, achieving an accuracy of ~76.6% with a mean cross-validation score of ~77.7%.
 
 # In[2]:
 
